@@ -1,55 +1,43 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+我何年何月才能成为算法工程师呀。加油，橙子。
+## 教育背景
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+* 2018年于天津理工大学毕业
+* 正在北京科技大学就读研究生
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
-## Education
+## 技能
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-
-## Roles
-
-Founder, ABC Organisation
-
-## Skills
-
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **技能 1** - `单片机` / `嵌入式编程` 
+* **技能 2** - `C语言` / `MATLAB` / `python`
+* **技能 3** - `机器学习` / `神经网络` / `图像处理` / `系统辨识`
+* **技能 4** - `哈哈，其实好多技能都不会呢，写在这也太不要脸了，但我会慢慢学习的，争取早日当一个卓越的算法工程师` 
     
     
-## Achievements
+## 主要成就
 
 
-* [**This is my first achievement**](#) 
+* [**待补充**](#) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   
 
 ***
 
 * [**This is my second achievement**](#) 
 
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   
 
 ***
 
 * [**This is my third achievement**](#) 
 
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+ 
 
+## 联系我
 
-## Contact me
-
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[2471630183@qq.com](mailto:2471630183@qq.com)
